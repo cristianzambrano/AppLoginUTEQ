@@ -1,5 +1,7 @@
 # App Login de la UTEQ
 
+<img src="logo.png" width="100px">
+
 Este proyecto es una aplicación web sencilla de inicio de sesión para la Universidad Tecnológica de Querétaro (UTEQ).
 
 ## Características
